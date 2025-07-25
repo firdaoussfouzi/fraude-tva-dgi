@@ -34,7 +34,7 @@ Projet réalisé dans le cadre d’un stage à la **Direction Générale des Imp
 
 ## 📌 Résultats
 
-- Précision du modèle : 91%
+- Précision du modèle : 70%
 - Recall sur les cas de fraude : 87%
 - Interprétabilité renforcée par SHAP
 
